@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CharPanel()
+comment0.text=\r\n\ Description\:\r\n\ The\ CharPanel\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=player\ playerNumber
+comment1.target=void\ update(Characters,\ int)
+comment1.text=\r\n\ Description\:\r\n\ This\ method\ is\ called\ in\ the\ JDungeonMap\ when\ the\ keys\ "S",\ "W",\r\n\ "A","D"\ are\ pressed.\ This\ method\ updates\ the\ current\ player\ info\r\n\ \r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=void\ newGame()
+comment2.text=\r\n\ Description\:\r\n\ This\ method\ cleans\ up\ the\ player\ info\ and\ sets\ it\ to\ default\ values\r\n\ \r\n\ Limitations\:\ none\r\n
+numComments=3

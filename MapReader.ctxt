@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MapReader()
+comment1.params=name
+comment1.target=void\ setFileName(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getTiles()
+numComments=3

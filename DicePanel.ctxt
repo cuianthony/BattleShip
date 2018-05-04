@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DicePanel()
+comment0.text=\r\n\ Description\:\r\n\ The\ DicePanel\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=
+comment1.target=void\ playSound()
+comment1.text=\r\n\ Description\:\r\n\ The\ method\ plays\ a\ dice\ rolling\ sound\r\n\ \r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=int\ getDiceTotal()
+comment2.text=\r\n\ Description\:\r\n\ Return\ the\ dice\ total\ rolled\r\n\ \r\n\ Limitations\:\ none\r\n
+comment3.params=d1\ d2
+comment3.target=void\ animateDiceRoll(int,\ int)
+comment3.text=\r\n\ Description\:\r\n\ Start\ a\ timer\ and\ animate\ the\ rolling\ of\ dice\r\n\ \r\n\ Limitations\:\ none\r\n
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

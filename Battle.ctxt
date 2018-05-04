@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=monster\ player
+comment0.target=void\ fight(Monster,\ Characters)
+comment0.text=\r\n\ The\ player\ has\ to\ roll\ a\ certain\ number\ accrding\ to\ the\ monster\ in\ order\ to\ kill\ the\ monster.\ And\ gain\ a\ treasure.\r\n\ If\ the\ player\ fails\ to\ kill\ the\ monster\ than\ the\ monster\ will\ roll\ against\ the\ player.\ \r\n\ According\ to\ the\ rule\ book\:\r\n\ 5\ or\ lower\ is\ a\ miss\r\n\ 6-7\ is\ stuuned.\ Lose\ 1\ random\ treasure\r\n\ 8-10\ is\ wounded.\ Lose\ 1\ random\ treasure\r\n\ 11\ is\ seriously\ wounded.\ Drop\ half\ of\ the\ treasure\r\n\ 12\ is\ Killed.\ Drop\ all\ of\ the\ treasure\ card\ and\ goes\ back\ to\ the\ spawn\ tile\r\n
+numComments=1

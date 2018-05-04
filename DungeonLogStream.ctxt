@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ta
+comment0.target=DungeonLogStream(javax.swing.JTextArea)
+comment0.text=\r\n\ Description\:\r\n\ The\ DungeonLogStream\ constructor.\r\n
+comment1.params=ch
+comment1.target=void\ write(int)
+comment1.text=\r\n\ Description\:\r\n\ Overwrite\ the\ write\ method\ in\ OutputStream.\ Write\ the\ character\r\n\ to\ the\ text\ area.\r\n\ \r\n\ Limitations\:\ none\r\n
+numComments=2
